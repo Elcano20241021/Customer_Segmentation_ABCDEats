@@ -26,6 +26,9 @@ Tailored recommendations and marketing strategies were developed for:
 - AM/PM order time behavior
 - Regional customer behaviors
 
-## Contributions
-
+## Authors
+- Elcano Gaspar (20241021)
+- Gaspar Pereira (20230984)
+- Pedro Costa (20222121)
+- Rita Wang (20240551): https://github.com/ritz-egg
 
